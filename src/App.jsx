@@ -596,7 +596,7 @@ export default function App() {
       {/* NAVBAR */}
       <header className="navbar">
         <div className="navbar-inner">
-          <a href="#hero" className="logo">Shop<span>Ease</span></a>
+          <a href="#hero" className="logo">Show<span>Spot</span></a>
           <nav><ul className="nav-links">
             <li><a href="#products">Products</a></li>
             <li><a href="#about">About</a></li>
@@ -715,7 +715,7 @@ export default function App() {
 
       {/* FOOTER */}
       <footer className="footer">
-        <p>© {new Date().getFullYear()} ShopEase — Built with React by <a href="https://github.com/RIYAYADAV08" target="_blank" rel="noreferrer">coolkunal9</a></p>
+        <p>© {2024} ShowSpot — Built with React by <a href="https://github.com/RIYAYADAV08" target="_blank" rel="noreferrer">RIYAYADAV08</a></p>
       </footer>
 
       {/* CART */}
